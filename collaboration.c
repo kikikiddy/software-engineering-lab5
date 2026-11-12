@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    puts("Hello, Git team!");
+    puts("Workspace B: subtraction ready.");
     return 0;
 }
