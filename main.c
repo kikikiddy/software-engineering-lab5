@@ -6,5 +6,6 @@ int main(void) {
     printf("Add: %d\n", a + b);
     printf("Subtract: %d\n", a - b);
     printf("Workspace A: pushed my change.\n");
+    printf("Workspace B: pushed my change.\n");
     return 0;
 }
