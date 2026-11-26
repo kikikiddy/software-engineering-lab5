@@ -7,3 +7,4 @@ int main(void) {
     puts("Workspace A: collision line edited by A.");
     return 0;
 }
+// Workspace B: Vicky added this line
